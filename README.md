@@ -7,4 +7,4 @@ A simple guid to learn BrainFuck, coded in BrainFuck
 * PrintInput.bf
    * Prints the Console-Input
 * Tutorial.bf
-   * Little fast ATutorial for BrainFuck
+   * Little fast Tutorial for BrainFuck
